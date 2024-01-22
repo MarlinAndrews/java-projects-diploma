@@ -1,0 +1,7 @@
+read
+number
+civic
+kayak
+reviver
+ancient
+level

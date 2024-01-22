@@ -1,0 +1,1 @@
+Each week working of the menu is working on a different technique
